@@ -18,3 +18,6 @@ A standalone API to collect data from the inverters. Uses HTTP POST/GET. It is u
 
 *You can also use this, alone, as a mean of gathering data, perhaps in another Smart Home system akin to Home Assistant.*
 
+# Bug Reports & Contributions
+
+Bug reports through Github Issues is greatly appreciated, and so are suggestions and feature requests!
